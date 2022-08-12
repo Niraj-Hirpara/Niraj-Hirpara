@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Nirajkumar Hirpara 
-- 👀 I’m interested in Android App development 
-- 🌱 I’m currently learning App Development 
+- 👀 I’m interested in Java Programing & Android App Development 
+- 📚 I love reading motivational books. 
+- 🛬 I Love Travelling. 
 
 <!---
 Niraj-Hirpara/Niraj-Hirpara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
